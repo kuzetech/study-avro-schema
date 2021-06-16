@@ -1,0 +1,14 @@
+{
+  "type": "record",
+  "name": "Wallet",
+  "fields": [
+    {
+      "name": "userId",
+      "type": "int"
+    },
+    {
+      "name": "money",
+      "type": "int"
+    }
+  ]
+}
