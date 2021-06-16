@@ -1,0 +1,1 @@
+# study-avro-schema
